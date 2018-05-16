@@ -4,13 +4,9 @@
 
 int main(void) { 
     
-    // Ask the user for a side length
+    // Ask the user for a side length and store the answer in a variable
     
-    // Store the answer in a variable
-    
-    // Ask the user for the other side length
-    
-    // Store the answer in a variable
+    // Ask the user for the other side length and store the answer in a variable
     
     // Calculate the hypotenuse length using sqrt
     
