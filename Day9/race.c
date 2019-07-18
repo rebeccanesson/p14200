@@ -34,6 +34,12 @@ void insertion(int values[], int n)
     return;
 }
 
+void merge(int values[], int n)
+{
+
+
+}
+
 void printarr(int values[], int n)
 {
     for (int i = 0; i < n; i++)
